@@ -1,0 +1,21 @@
+{
+  "name": "BATAMTOTO webApp",
+  "short_name": "BATAMTOTO",
+  "icons": [
+    {
+      "src": "https://imgme.pro/images/favicon0b49f4eca6398d76.png?f=webp",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://imgme.pro/images/favicon0b49f4eca6398d76.png?f=webp",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "display": "standalone",
+  "start_url": "https://www.google.com/search?q=batamtoto",
+  "background_color": "#fd0303",
+  "scope": "/",
+  "theme_color": "#fd0303"
+}
